@@ -1,1 +1,2 @@
-# rotationcraft_issue
+# 用于接收mod反馈🇹🇼
+
